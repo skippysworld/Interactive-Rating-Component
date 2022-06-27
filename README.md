@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontEnd Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor]()
+- Live Site URL: [GitHub Pages](https://skippysworld.github.io/Interactive-Rating-Component/)
 
 ## My process
 
